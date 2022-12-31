@@ -1,0 +1,2 @@
+# [travel-times.csv](https://github.com/GalvanizeDataScience/ml-workshop/blob/master/data/travel-times.csv) Python Programming Project :clock4:
+In my Fall 2022 semester, I completed a project in my Python Programming: Fundamentals & Analytics course (BTE320) in which I used `pandas` to analyze a dataset, which contains information from a driver as they drove to-and-from work each day. The driver used an app to collect location and elevation data for about 200 trips. Click [here](https://github.com/icg42/travel-times/blob/main/travel-times.ipynb) to view my code!
